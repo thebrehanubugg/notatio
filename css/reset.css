@@ -1,0 +1,51 @@
+/*
+	a reset stylesheet file
+	a notatio file
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	align-items: baseline;
+	transition: all 0.2s ease-in-out;
+}
+
+body {
+	font-family: "Montserrat", sans-serif;
+	padding: 55px 0;
+}
+
+div.wrapper {
+	width: 100%;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 55px;
+}
+
+span {
+	color: gray;
+}
+
+h3:first-child {
+	margin-bottom: 5px;
+}
+
+a {
+	color: #18A7F7;
+	position: relative;
+	top: 0;
+}
+
+a:hover {
+	position: relative;
+	top: -3px;
+	color: #1489CB;
+}
