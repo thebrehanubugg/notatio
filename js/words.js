@@ -14,12 +14,718 @@ LEXICON = [
 		past: "walked"
 	},
 	{
+		word: "be",
+		pos: "verb",
+		plural: "",
+		present_progressive: "being",
+		past: "was",
+		past_participle: "been"
+	},
+	{
+		word: "beat",
+		pos: "verb",
+		plural: "beats",
+		present_progressive: "beating",
+		past: "beated",
+		past_participle: "beaten"
+	},
+	{
+		word: "become",
+		pos: "verb",
+		plural: "becomes",
+		present_progressive: "becoming",
+		past: "became",
+		past_participle: "become"
+	},
+	{
+		word: "begin",
+		pos: "verb",
+		plural: "begins",
+		present_progressive: "beginning",
+		past: "began",
+		past_participle: "begun"
+	},
+	{
+		word: "bend",
+		pos: "verb",
+		plural: "bends",
+		present_progressive: "bending",
+		past: "bent",
+		past_participle: "bent"
+	},
+	{
+		word: "bet",
+		pos: "verb",
+		plural: "bets",
+		present_progressive: "betting",
+		past: "bet",
+		past_participle: "bet"
+	},
+	{
+		word: "bid",
+		pos: "verb",
+		plural: "bids",
+		present_progressive: "bidding",
+		past: "bid",
+		past_participle: "bid"
+	},
+	{
+		word: "bite",
+		pos: "verb",
+		plural: "bites",
+		present_progressive: "biting",
+		past: "bit",
+		past_participle: "bitten"
+	},
+	{
+		word: "blow",
+		pos: "verb",
+		plural: "blows",
+		present_progressive: "blowing",
+		past: "blew",
+		past_participle: "blown"
+	},
+	{
+		word: "break",
+		pos: "verb",
+		plural: "breaks",
+		present_progressive: "breaking",
+		past: "broke",
+		past_participle: "broken"
+	},
+	{
+		word: "bring",
+		pos: "verb",
+		plural: "brings",
+		present_progressive: "bringing",
+		past: "brought",
+		past_participle: "brought"
+	},
+	{
+		word: "build",
+		pos: "verb",
+		plural: "builds",
+		present_progressive: "building",
+		past: "built",
+		past_participle: "built"
+	},
+	{
+		word: "burn",
+		pos: "verb",
+		plural: "burns",
+		present_progressive: "burning",
+		past: "burned",
+		past_participle: "burnt"
+	},
+	{
+		word: "buy",
+		pos: "verb",
+		plural: "buys",
+		present_progressive: "buying",
+		past: "bought",
+		past_participle: "bought"
+	},
+	{
+		word: "catch",
+		pos: "verb",
+		plural: "catches",
+		present_progressive: "catching",
+		past: "caught",
+		past_participle: "caught"
+	},
+	{
+		word: "choose",
+		pos: "verb",
+		plural: "choses",
+		present_progressive: "choosing",
+		past: "chose",
+		past_participle: "chosen"
+	},
+	{
+		word: "come",
+		pos: "verb",
+		plural: "comes",
+		present_progressive: "comming",
+		past: "came",
+		past_participle: "come"
+	},
+	{
+		word: "cost",
+		pos: "verb",
+		plural: "costs",
+		present_progressive: "costing",
+		past: "cost",
+		past_participle: "cost"
+	},
+	{
+		word: "cut",
+		pos: "verb",
+		plural: "cuts",
+		present_progressive: "cutting",
+		past: "cut",
+		past_participle: "cut"
+	},
+	{
+		word: "dig",
+		pos: "verb",
+		plural: "digs",
+		present_progressive: "digging",
+		past: "dug",
+		past_participle: "dug"
+	},
+	{
+		word: "dive",
+		pos: "verb",
+		plural: "dives",
+		present_progressive: "diving",
+		past: "dove",
+		past_participle: "dived"
+	},
+	{
+		word: "do",
+		pos: "verb",
+		plural: "do",
+		present_progressive: "doing",
+		past: "did",
+		past_participle: "done"
+	},
+	{
+		word: "draw",
+		pos: "verb",
+		plural: "draws",
+		present_progressive: "drawing",
+		past: "drew",
+		past_participle: "drawn"
+	},
+	{
+		word: "dream",
+		pos: "verb",
+		plural: "dreams",
+		present_progressive: "dreaming",
+		past: "dreamed",
+		past_participle: "dreamt"
+	},
+	{
+		word: "drive",
+		pos: "verb",
+		plural: "drives",
+		present_progressive: "driving",
+		past: "drove",
+		past_participle: "driven"
+	},
+	{
+		word: "drink",
+		pos: "verb",
+		plural: "drinks",
+		present_progressive: "drinking",
+		past: "drank",
+		past_participle: "drunk"
+	},
+	{
 		word: "eat",
 		pos: "verb",
-		plural: "eat",
+		plural: "eats",
 		present_progressive: "eating",
-		past: "ate"
+		past: "ate",
+		past_participle: "eaten"
 	},
+	{
+		word: "fall",
+		pos: "verb",
+		plural: "falls",
+		present_progressive: "falling",
+		past: "fell",
+		past_participle: "fallen"
+	},
+	{
+		word: "feel",
+		pos: "verb",
+		plural: "feels",
+		present_progressive: "feeling",
+		past: "felt",
+		past_participle: "felt"
+	},
+	{
+		word: "fight",
+		pos: "verb",
+		plural: "fights",
+		present_progressive: "fighting",
+		past: "fought",
+		past_participle: "fought"
+	},
+	{
+		word: "find",
+		pos: "verb",
+		plural: "finds",
+		present_progressive: "finding",
+		past: "found",
+		past_participle: "found"
+	},
+	{
+		word: "fly",
+		pos: "verb",
+		plural: "flys",
+		present_progressive: "flying",
+		past: "flew",
+		past_participle: "flown"
+	},
+	{
+		word: "forget",
+		pos: "verb",
+		plural: "forgets",
+		present_progressive: "forgetting",
+		past: "forgot",
+		past_participle: "forgotten"
+	},
+	{
+		word: "forgive",
+		pos: "verb",
+		plural: "forgives",
+		present_progressive: "forgiving",
+		past: "forgave",
+		past_participle: "forgiven"
+	},
+	{
+		word: "freeze",
+		pos: "verb",
+		plural: "freezes",
+		present_progressive: "freezing",
+		past: "froze",
+		past_participle: "frozen"
+	},
+	{
+		word: "get",
+		pos: "verb",
+		plural: "gets",
+		present_progressive: "getting",
+		past: "got",
+		past_participle: "gotten"
+	},
+	{
+		word: "give",
+		pos: "verb",
+		plural: "gives",
+		present_progressive: "given",
+		past: "got",
+		past_participle: "gotten"
+	},
+	{
+		word: "go",
+		pos: "verb",
+		plural: "goes",
+		present_progressive: "going",
+		past: "went",
+		past_participle: "gone"
+	},
+	{
+		word: "grow",
+		pos: "verb",
+		plural: "grows",
+		present_progressive: "growing",
+		past: "grew",
+		past_participle: "grown"
+	},
+	{
+		word: "hang",
+		pos: "verb",
+		plural: "hangs",
+		present_progressive: "hanging",
+		past: "hung",
+		past_participle: "hung"
+	},
+	{
+		word: "have",
+		pos: "verb",
+		plural: "have",
+		present_progressive: "having",
+		past: "had",
+		past_participle: "had"
+	},
+	{
+		word: "hear",
+		pos: "verb",
+		plural: "hears",
+		present_progressive: "hearing",
+		past: "heard",
+		past_participle: "heard"
+	},
+	{
+		word: "hide",
+		pos: "verb",
+		plural: "hides",
+		present_progressive: "hiding",
+		past: "hid",
+		past_participle: "hidden"
+	},
+	{
+		word: "hit",
+		pos: "verb",
+		plural: "hits",
+		present_progressive: "hitting",
+		past: "hit",
+		past_participle: "hot"
+	},
+	{
+		word: "hold",
+		pos: "verb",
+		plural: "holds",
+		present_progressive: "holding",
+		past: "held",
+		past_participle: "held"
+	},
+	{
+		word: "hurt",
+		pos: "verb",
+		plural: "hurts",
+		present_progressive: "hurting",
+		past: "hurt",
+		past_participle: "hurt"
+	},
+	{
+		word: "keep",
+		pos: "verb",
+		plural: "keeps",
+		present_progressive: "keeping",
+		past: "kept",
+		past_participle: "kept"
+	},
+	{
+		word: "know",
+		pos: "verb",
+		plural: "know",
+		present_progressive: "knowing",
+		past: "knew",
+		past_participle: "known"
+	},
+	{
+		word: "lay",
+		pos: "verb",
+		plural: "lays",
+		present_progressive: "laying",
+		past: "laid",
+		past_participle: "laid"
+	},
+	{
+		word: "lead",
+		pos: "verb",
+		plural: "leads",
+		present_progressive: "leading",
+		past: "led",
+		past_participle: "led"
+	},
+	{
+		word: "leave",
+		pos: "verb",
+		plural: "leaves",
+		present_progressive: "leaving",
+		past: "left",
+		past_participle: "left"
+	},
+	{
+		word: "lend",
+		pos: "verb",
+		plural: "lends",
+		present_progressive: "lending",
+		past: "lent",
+		past_participle: "lent"
+	},
+	{
+		word: "let",
+		pos: "verb",
+		plural: "lets",
+		present_progressive: "letting",
+		past: "let",
+		past_participle: "let"
+	},
+	{
+		word: "lie",
+		pos: "verb",
+		plural: "lies",
+		present_progressive: "lying",
+		past: "lay",
+		past_participle: "lain"
+	},
+	{
+		word: "lose",
+		pos: "verb",
+		plural: "loses",
+		present_progressive: "loosing",
+		past: "lost",
+		past_participle: "lost"
+	},
+	{
+		word: "make",
+		pos: "verb",
+		plural: "makes",
+		present_progressive: "making",
+		past: "made",
+		past_participle: "made"
+	},
+	{
+		word: "mean",
+		pos: "verb",
+		plural: "means",
+		present_progressive: "meaning",
+		past: "meant",
+		past_participle: "meant"
+	},
+	{
+		word: "meet",
+		pos: "verb",
+		plural: "meets",
+		present_progressive: "meeting",
+		past: "met",
+		past_participle: "met"
+	},
+	{
+		word: "pay",
+		pos: "verb",
+		plural: "pays",
+		present_progressive: "paying",
+		past: "paid",
+		past_participle: "paid"
+	},
+	{
+		word: "put",
+		pos: "verb",
+		plural: "puts",
+		present_progressive: "putting",
+		past: "put",
+		past_participle: "put"
+	},
+	{
+		word: "read",
+		pos: "verb",
+		plural: "read",
+		present_progressive: "reading",
+		past: "read",
+		past_participle: "read"
+	},
+	{
+		word: "ride",
+		pos: "verb",
+		plural: "rides",
+		present_progressive: "riding",
+		past: "rode",
+		past_participle: "ridden"
+	},
+	{
+		word: "ring",
+		pos: "verb",
+		plural: "rings",
+		present_progressive: "ringing",
+		past: "rang",
+		past_participle: "rung"
+	},
+	{
+		word: "rise",
+		pos: "verb",
+		plural: "rise",
+		present_progressive: "rises",
+		past: "rose",
+		past_participle: "risen"
+	},
+	{
+		word: "run",
+		pos: "verb",
+		plural: "runs",
+		present_progressive: "running",
+		past: "ran",
+		past_participle: "run"
+	},
+	{
+		word: "say",
+		pos: "verb",
+		plural: "says",
+		present_progressive: "saying",
+		past: "said",
+		past_participle: "said"
+	},
+	{
+		word: "see",
+		pos: "verb",
+		plural: "sees",
+		present_progressive: "seeing",
+		past: "saw",
+		past_participle: "seen"
+	},
+	{
+		word: "sell",
+		pos: "verb",
+		plural: "sells",
+		present_progressive: "selling",
+		past: "sold",
+		past_participle: "sold"
+	},
+	{
+		word: "send",
+		pos: "verb",
+		plural: "sends",
+		present_progressive: "sending",
+		past: "sent",
+		past_participle: "sent"
+	},
+	{
+		word: "show",
+		pos: "verb",
+		plural: "shows",
+		present_progressive: "showing",
+		past: "showed",
+		past_participle: "shown"
+	},
+	{
+		word: "shut",
+		pos: "verb",
+		plural: "shuts",
+		present_progressive: "shutting",
+		past: "shut",
+		past_participle: "shut"
+	},
+	{
+		word: "sing",
+		pos: "verb",
+		plural: "sings",
+		present_progressive: "singing",
+		past: "sang",
+		past_participle: "sung"
+	},
+	{
+		word: "sit",
+		pos: "verb",
+		plural: "sits",
+		present_progressive: "sitting",
+		past: "sat",
+		past_participle: "sat"
+	},
+	{
+		word: "sleep",
+		pos: "verb",
+		plural: "sleeps",
+		present_progressive: "sleeping",
+		past: "slept",
+		past_participle: "slept"
+	},
+	{
+		word: "speak",
+		pos: "verb",
+		plural: "speaks",
+		present_progressive: "speaking",
+		past: "spoke",
+		past_participle: "spoken"
+	},
+	{
+		word: "spend",
+		pos: "verb",
+		plural: "spends",
+		present_progressive: "spending",
+		past: "spent",
+		past_participle: "spent"
+	},
+	{
+		word: "stand",
+		pos: "verb",
+		plural: "stands",
+		present_progressive: "standing",
+		past: "stood",
+		past_participle: "stood"
+	},
+	{
+		word: "swim",
+		pos: "verb",
+		plural: "swims",
+		present_progressive: "swimming",
+		past: "swam",
+		past_participle: "swum"
+	},
+	{
+		word: "take",
+		pos: "verb",
+		plural: "takes",
+		present_progressive: "taking",
+		past: "took",
+		past_participle: "taken"
+	},
+	{
+		word: "teach",
+		pos: "verb",
+		plural: "teaches",
+		present_progressive: "teaching",
+		past: "taught",
+		past_participle: "taught"
+	},
+	{
+		word: "tear",
+		pos: "verb",
+		plural: "tears",
+		present_progressive: "tearing",
+		past: "tore",
+		past_participle: "torn"
+	},
+	{
+		word: "tell",
+		pos: "verb",
+		plural: "tells",
+		present_progressive: "telling",
+		past: "told",
+		past_participle: "told"
+	},
+	{
+		word: "think",
+		pos: "verb",
+		plural: "thinks",
+		present_progressive: "thinking",
+		past: "thought",
+		past_participle: "thought"
+	},
+	{
+		word: "throw",
+		pos: "verb",
+		plural: "throws",
+		present_progressive: "throwing",
+		past: "threw",
+		past_participle: "thrown"
+	},
+	{
+		word: "understand",
+		pos: "verb",
+		plural: "understand",
+		present_progressive: "understanding",
+		past: "understood",
+		past_participle: "understood"
+	},
+	{
+		word: "wake",
+		pos: "verb",
+		plural: "wakes",
+		present_progressive: "waking",
+		past: "woke",
+		past_participle: "woken"
+	},
+	{
+		word: "wear",
+		pos: "verb",
+		plural: "wears",
+		present_progressive: "wearing",
+		past: "wore",
+		past_participle: "worn"
+	},
+	{
+		word: "win",
+		pos: "verb",
+		plural: "wins",
+		present_progressive: "winning",
+		past: "won",
+		past_participle: "won"
+	},
+	{
+		word: "write",
+		pos: "verb",
+		plural: "writes",
+		present_progressive: "writing",
+		past: "wrote",
+		past_participle: "written"
+	},
+
 
 	// noun
 	{	
