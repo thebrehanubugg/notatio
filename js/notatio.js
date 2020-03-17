@@ -127,6 +127,8 @@ const notate = template => {
 			next = replace(current, "__VERB_PAST_TENSE__", find_word_by_pos("verb").past)
 		if(current.includes("VERB_PRESENT_PROGRESSIVE"))
 			next = replace(current, "__VERB_PRESENT_PROGRESSIVE__", find_word_by_pos("verb").present_progressive)
+		if(current.includes("VERB_PAST_PARTICIPLE"))
+			next = replace(current, "__VERB_PAST_PARTICIPLE__", find_word_by_pos("verb").past_participle)
 
 		if(current.includes("PERSON"))
 			next = replace(current, "__PERSON__", find_word_by_key("isPerson", true).word)
