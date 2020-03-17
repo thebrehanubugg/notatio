@@ -10028,301 +10028,1078 @@ LEXICON = [
 
 	// adjectives
 	{
-		word: "happy",
-		pos: "adjective",
-		descriptive: "happily"
-	},
-	{
 		word: "sad",
 		pos: "adjective",
 		descriptive: "sadly"
 	},
 	{
-		word: "depressing",
+		word: "adorable",
+		pos: "adjective",
+		descriptive: "adorably"
+	},
+	{
+		word: "delightful",
+		pos: "adjective",
+		descriptive: "delightfuly"
+	},
+	{
+		word: "homely",
+		pos: "adjective",
+		descriptive: "homely"
+	},
+	{
+		word: "quaint",
+		pos: "adjective",
+		descriptive: "quaintly"
+	},
+	{
+		word: "adventurous",
+		pos: "adjective",
+		descriptive: "adventurously"
+	},
+	{
+		word: "depressed",
 		pos: "adjective",
 		descriptive: "depressingly"
+	},
+	{
+		word: "horrible",
+		pos: "adjective",
+		descriptive: "horribly"
+	},
+	{
+		word: "aggressive",
+		pos: "adjective",
+		descriptive: "aggressively"
+	},
+	{
+		word: "determined",
+		pos: "adjective",
+		descriptive: "determinedly"
+	},
+	{
+		word: "hungry",
+		pos: "adjective",
+		descriptive: "hungrily"
+	},
+	{
+		word: "agreeable",
+		pos: "adjective",
+		descriptive: "agreeably"
+	},
+	{
+		word: "different",
+		pos: "adjective",
+		descriptive: "differently"
+	},
+	{
+		word: "alert",
+		pos: "adjective",
+		descriptive: "alertly"
+	},
+	{
+		word: "difficult",
+		pos: "adjective",
+		descriptive: "difficultly"
+	},
+	{
+		word: "repulsive",
+		pos: "adjective",
+		descriptive: "repulsively"
+	},
+	{
+		word: "alive",
+		pos: "adjective",
+		descriptive: "lively"
+	},
+	{
+		word: "disgusted",
+		pos: "adjective",
+		descriptive: "disgustedly"
+	},
+	{
+		word: "rich",
+		pos: "adjective",
+		descriptive: "richly"
+	},
+	{
+		word: "amused",
+		pos: "adjective",
+		descriptive: "amusingly"
+	},
+	{
+		word: "distinct",
+		pos: "adjective",
+		descriptive: "distinctly"
+	},
+	{
+		word: "important",
+		pos: "adjective",
+		descriptive: "importantly"
+	},
+	{
+		word: "angry",
+		pos: "adjective",
+		descriptive: "angrily"
+	},
+	{
+		word: "disturbed",
+		pos: "adjective",
+		descriptive: "disturbingly"
+	},
+	{
+		word: "impossible",
+		pos: "adjective",
+		descriptive: "impossiblely"
+	},
+	{
+		word: "scary",
+		pos: "adjective",
+		descriptive: "scarily"
+	},
+	{
+		word: "annoyed",
+		pos: "adjective",
+		descriptive: "annoyingly"
+	},
+	{
+		word: "dizzy",
+		pos: "adjective",
+		descriptive: "dizzily"
+	},
+	{
+		word: "inexpensive",
+		pos: "adjective",
+		descriptive: "inexpensively"
+	},
+	{
+		word: "selfish",
+		pos: "adjective",
+		descriptive: "selfishly"
+	},
+	{
+		word: "annoying",
+		pos: "adjective",
+		descriptive: "annoyingly"
+	},
+	{
+		word: "doubtful",
+		pos: "adjective",
+		descriptive: "doubtfully"
+	},
+	{
+		word: "innocent",
+		pos: "adjective",
+		descriptive: "innocently"
+	},
+	{
+		word: "shiny",
+		pos: "adjective",
+		descriptive: "shiny"
+	},
+	{
+		word: "anxious",
+		pos: "adjective",
+		descriptive: "anxiously"
+	},
+	{
+		word: "drab",
+		pos: "adjective",
+		descriptive: "drabbingly"
+	},
+	{
+		word: "inquisitive",
+		pos: "adjective",
+		descriptive: "inquisitively"
+	},
+	{
+		word: "shy",
+		pos: "adjective",
+		descriptive: "shyly"
+	},
+	{
+		word: "arrogant",
+		pos: "adjective",
+		descriptive: "arrogantly"
+	},
+	{
+		word: "dull",
+		pos: "adjective",
+		descriptive: "dullly"
+	},
+	{
+		word: "itchy",
+		pos: "adjective",
+		descriptive: "itchingly"
+	},
+	{
+		word: "silly",
+		pos: "adjective",
+		descriptive: "silly"
+	},
+	{
+		word: "ashamed",
+		pos: "adjective",
+		descriptive: "ashamedly"
+	},
+	{
+		word: "sleepy",
+		pos: "adjective",
+		descriptive: "sleepily"
+	},
+	{
+		word: "attractive",
+		pos: "adjective",
+		descriptive: "attractively"
+	},
+	{
+		word: "eager",
+		pos: "adjective",
+		descriptive: "eagerly"
+	},
+	{
+		word: "jealous",
+		pos: "adjective",
+		descriptive: "jealously"
+	},
+	{
+		word: "smiling",
+		pos: "adjective",
+		descriptive: "smilingly"
+	},
+	{
+		word: "average",
+		pos: "adjective",
+		descriptive: "averagely"
+	},
+	{
+		word: "easy",
+		pos: "adjective",
+		descriptive: "easily"
+	},
+	{
+		word: "jittery",
+		pos: "adjective",
+		descriptive: "jitterily"
+	},
+	{
+		word: "smoggy",
+		pos: "adjective",
+		descriptive: "smoggily"
+	},
+	{
+		word: "awful",
+		pos: "adjective",
+		descriptive: "awfully"
+	},
+	{
+		word: "elated",
+		pos: "adjective",
+		descriptive: "elatedly"
+	},
+	{
+		word: "jolly",
+		pos: "adjective",
+		descriptive: "jolliliy"
+	},
+	{
+		word: "sore",
+		pos: "adjective",
+		descriptive: "sorily"
+	},
+	{
+		word: "elegant",
+		pos: "adjective",
+		descriptive: "elegantly"
+	},
+	{
+		word: "joyous",
+		pos: "adjective",
+		descriptive: "joyously"
+	},
+	{
+		word: "sparkling",
+		pos: "adjective",
+		descriptive: "sparklingly"
+	},
+	{
+		word: "bad",
+		pos: "adjective",
+		descriptive: "badly"
+	},
+	{
+		word: "embarrassed",
+		pos: "adjective",
+		descriptive: "embarrassedly"
+	},
+	{
+		word: "splendid",
+		pos: "adjective",
+		descriptive: "splendidly"
+	},
+	{
+		word: "beautiful",
+		pos: "adjective",
+		descriptive: "beautifully"
+	},
+	{
+		word: "enchanting",
+		pos: "adjective",
+		descriptive: "enchantingly"
+	},
+	{
+		word: "kind",
+		pos: "adjective",
+		descriptive: "kindly"
+	},
+	{
+		word: "spotless",
+		pos: "adjective",
+		descriptive: "spotlessly"
+	},
+	{
+		word: "better",
+		pos: "adjective",
+		descriptive: "betterly"
+	},
+	{
+		word: "encouraging",
+		pos: "adjective",
+		descriptive: "encouragingly"
+	},
+	{
+		word: "stormy",
+		pos: "adjective",
+		descriptive: "stormily"
+	},
+	{
+		word: "bewildered",
+		pos: "adjective",
+		descriptive: "bewilderedly"
+	},
+	{
+		word: "energetic",
+		pos: "adjective",
+		descriptive: "energeticily"
+	},
+	{
+		word: "lazy",
+		pos: "adjective",
+		descriptive: "lazily"
+	},
+	{
+		word: "strange",
+		pos: "adjective",
+		descriptive: "strangely"
+	},
+	{
+		word: "enthusiastic",
+		pos: "adjective",
+		descriptive: "enthusiasticly"
+	},
+	{
+		word: "stupid",
+		pos: "adjective",
+		descriptive: "stupidly"
+	},
+	{
+		word: "bloody",
+		pos: "adjective",
+		descriptive: "bloody"
+	},
+	{
+		word: "envious",
+		pos: "adjective",
+		descriptive: "enviously"
+	},
+	{
+		word: "lively",
+		pos: "adjective",
+		descriptive: "lively"
+	},
+	{
+		word: "successful",
+		pos: "adjective",
+		descriptive: "successfully"
+	},
+	{
+		word: "super",
+		pos: "adjective",
+		descriptive: "superly"
+	},
+	{
+		word: "blue-eyed",
+		pos: "adjective",
+		descriptive: "blue-eyedly"
+	},
+	{
+		word: "excited",
+		pos: "adjective",
+		descriptive: "excitedly"
+	},
+	{
+		word: "long",
+		pos: "adjective",
+		descriptive: "longingly"
+	},
+	{
+		word: "blushing",
+		pos: "adjective",
+		descriptive: "blushingly"
+	},
+	{
+		word: "expensive",
+		pos: "adjective",
+		descriptive: "expensively"
+	},
+	{
+		word: "lovely",
+		pos: "adjective",
+		descriptive: "lovely"
+	},
+	{
+		word: "talented",
+		pos: "adjective",
+		descriptive: "talentedly"
+	},
+	{
+		word: "bored",
+		pos: "adjective",
+		descriptive: "boredly"
+	},
+	{
+		word: "exuberant",
+		pos: "adjective",
+		descriptive: "exuberantly"
+	},
+	{
+		word: "lucky",
+		pos: "adjective",
+		descriptive: "luckily"
+	},
+	{
+		word: "tame",
+		pos: "adjective",
+		descriptive: "tamely"
+	},
+	{
+		word: "brainy",
+		pos: "adjective",
+		descriptive: "brainily"
+	},
+	{
+		word: "tender",
+		pos: "adjective",
+		descriptive: "tenderly"
+	},
+	{
+		word: "brave",
+		pos: "adjective",
+		descriptive: "bravely"
+	},
+	{
+		word: "fair",
+		pos: "adjective",
+		descriptive: "fairly"
+	},
+	{
+		word: "magnificent",
+		pos: "adjective",
+		descriptive: "magnificently"
+	},
+	{
+		word: "tense",
+		pos: "adjective",
+		descriptive: "tensely"
+	},
+	{
+		word: "breakable",
+		pos: "adjective",
+		descriptive: "breakablely"
+	},
+	{
+		word: "faithful",
+		pos: "adjective",
+		descriptive: "faithfully"
+	},
+	{
+		word: "misty",
+		pos: "adjective",
+		descriptive: "mistily"
+	},
+	{
+		word: "terrible",
+		pos: "adjective",
+		descriptive: "terriblely"
+	},
+	{
+		word: "bright",
+		pos: "adjective",
+		descriptive: "brightly"
+	},
+	{
+		word: "famous",
+		pos: "adjective",
+		descriptive: "famously"
+	},
+	{
+		word: "modern",
+		pos: "adjective",
+		descriptive: "modernly"
+	},
+	{
+		word: "tasty",
+		pos: "adjective",
+		descriptive: "tastily"
+	},
+	{
+		word: "busy",
+		pos: "adjective",
+		descriptive: "busily"
+	},
+	{
+		word: "fancy",
+		pos: "adjective",
+		descriptive: "fancily"
+	},
+	{
+		word: "motionless",
+		pos: "adjective",
+		descriptive: "motionlessly"
+	},
+	{
+		word: "thankful",
+		pos: "adjective",
+		descriptive: "thankfully"
+	},
+	{
+		word: "fantastic",
+		pos: "adjective",
+		descriptive: "fantasticly"
+	},
+	{
+		word: "thoughtful",
+		pos: "adjective",
+		descriptive: "thoughtfully"
+	},
+	{
+		word: "calm",
+		pos: "adjective",
+		descriptive: "calmly"
+	},
+	{
+		word: "fierce",
+		pos: "adjective",
+		descriptive: "fiercely"
+	},
+	{
+		word: "mushy",
+		pos: "adjective",
+		descriptive: "mushily"
+	},
+	{
+		word: "thoughtless",
+		pos: "adjective",
+		descriptive: "thoughtlessly"
+	},
+	{
+		word: "careful",
+		pos: "adjective",
+		descriptive: "carefully"
+	},
+	{
+		word: "filthy",
+		pos: "adjective",
+		descriptive: "filthily"
+	},
+	{
+		word: "mysterious",
+		pos: "adjective",
+		descriptive: "mysteriously"
+	},
+	{
+		word: "tired",
+		pos: "adjective",
+		descriptive: "tiredly"
+	},
+	{
+		word: "cautious",
+		pos: "adjective",
+		descriptive: "cautiously"
+	},
+	{
+		word: "fine",
+		pos: "adjective",
+		descriptive: "finely"
+	},
+	{
+		word: "tough",
+		pos: "adjective",
+		descriptive: "toughly"
+	},
+	{
+		word: "charming",
+		pos: "adjective",
+		descriptive: "charmingly"
+	},
+	{
+		word: "foolish",
+		pos: "adjective",
+		descriptive: "foolishly"
+	},
+	{
+		word: "nasty",
+		pos: "adjective",
+		descriptive: "nastily"
+	},
+	{
+		word: "troubled",
+		pos: "adjective",
+		descriptive: "troubledly"
+	},
+	{
+		word: "cheerful",
+		pos: "adjective",
+		descriptive: "cheerfully"
+	},
+	{
+		word: "fragile",
+		pos: "adjective",
+		descriptive: "fragilely"
+	},
+	{
+		word: "naughty",
+		pos: "adjective",
+		descriptive: "naughtily"
+	},
+	{
+		word: "clean",
+		pos: "adjective",
+		descriptive: "cleanly"
+	},
+	{
+		word: "frail",
+		pos: "adjective",
+		descriptive: "frailly"
+	},
+	{
+		word: "nervous",
+		pos: "adjective",
+		descriptive: "nervously"
+	},
+	{
+		word: "clear",
+		pos: "adjective",
+		descriptive: "clearly"
+	},
+	{
+		word: "frantic",
+		pos: "adjective",
+		descriptive: "franticly"
+	},
+	{
+		word: "nice",
+		pos: "adjective",
+		descriptive: "nicely"
+	},
+	{
+		word: "ugly",
+		pos: "adjective",
+		descriptive: "ugily"
+	},
+	{
+		word: "clever",
+		pos: "adjective",
+		descriptive: "cleverly"
+	},
+	{
+		word: "friendly",
+		pos: "adjective",
+		descriptive: "friendly"
+	},
+	{
+		word: "nutty",
+		pos: "adjective",
+		descriptive: "nuttily"
+	},
+	{
+		word: "uninterested",
+		pos: "adjective",
+		descriptive: "uninterestedly"
+	},
+	{
+		word: "cloudy",
+		pos: "adjective",
+		descriptive: "cloudy"
+	},
+	{
+		word: "frightened",
+		pos: "adjective",
+		descriptive: "frightenedly"
+	},
+	{
+		word: "unsightly",
+		pos: "adjective",
+		descriptive: "unsightly"
+	},
+	{
+		word: "clumsy",
+		pos: "adjective",
+		descriptive: "clumsily"
+	},
+	{
+		word: "funny",
+		pos: "adjective",
+		descriptive: "funnily"
+	},
+	{
+		word: "obedient",
+		pos: "adjective",
+		descriptive: "obediently"
+	},
+	{
+		word: "unusual",
+		pos: "adjective",
+		descriptive: "unusually"
+	},
+	{
+		word: "colorful",
+		pos: "adjective",
+		descriptive: "colorfully"
+	},
+	{
+		word: "obnoxious",
+		pos: "adjective",
+		descriptive: "obnoxiously"
+	},
+	{
+		word: "upset",
+		pos: "adjective",
+		descriptive: "upset"
+	},
+	{
+		word: "combative",
+		pos: "adjective",
+		descriptive: "combatively"
+	},
+	{
+		word: "gentle",
+		pos: "adjective",
+		descriptive: "gentley"
+	},
+	{
+		word: "odd",
+		pos: "adjective",
+		descriptive: "oddly"
+	},
+	{
+		word: "uptight",
+		pos: "adjective",
+		descriptive: "uptightly"
+	},
+	{
+		word: "comfortable",
+		pos: "adjective",
+		descriptive: "comfortablely"
+	},
+	{
+		word: "gifted",
+		pos: "adjective",
+		descriptive: "giftedly"
+	},
+	{
+		word: "old-fashioned",
+		pos: "adjective",
+		descriptive: "old-fashionedly"
+	},
+	{
+		word: "concerned",
+		pos: "adjective",
+		descriptive: "concernedly"
+	},
+	{
+		word: "glamorous",
+		pos: "adjective",
+		descriptive: "glamorously"
+	},
+	{
+		word: "open",
+		pos: "adjective",
+		descriptive: "openly"
+	},
+	{
+		word: "vast",
+		pos: "adjective",
+		descriptive: "vastly"
+	},
+	{
+		word: "condemned",
+		pos: "adjective",
+		descriptive: "condemnedly"
+	},
+	{
+		word: "gleaming",
+		pos: "adjective",
+		descriptive: "gleamingly"
+	},
+	{
+		word: "outrageous",
+		pos: "adjective",
+		descriptive: "outrageously"
+	},
+	{
+		word: "victorious",
+		pos: "adjective",
+		descriptive: "victoriously"
+	},
+	{
+		word: "confused",
+		pos: "adjective",
+		descriptive: "confusedly"
+	},
+	{
+		word: "glorious",
+		pos: "adjective",
+		descriptive: "gloriously"
+	},
+	{
+		word: "outstanding",
+		pos: "adjective",
+		descriptive: "outstandingly"
+	},
+	{
+		word: "vivacious",
+		pos: "adjective",
+		descriptive: "vivaciously"
+	},
+	{
+		word: "cooperative",
+		pos: "adjective",
+		descriptive: "cooperatively"
+	},
+	{
+		word: "good",
+		pos: "adjective",
+		descriptive: "goodly"
+	},
+	{
+		word: "courageous",
+		pos: "adjective",
+		descriptive: "courageously"
+	},
+	{
+		word: "gorgeous",
+		pos: "adjective",
+		descriptive: "gorgeously"
+	},
+	{
+		word: "panicky",
+		pos: "adjective",
+		descriptive: "panickyly"
+	},
+	{
+		word: "wandering",
+		pos: "adjective",
+		descriptive: "wanderingly"
+	},
+	{
+		word: "crazy",
+		pos: "adjective",
+		descriptive: "crazyily"
+	},
+	{
+		word: "graceful",
+		pos: "adjective",
+		descriptive: "gracefully"
+	},
+	{
+		word: "perfect",
+		pos: "adjective",
+		descriptive: "perfectly"
+	},
+	{
+		word: "weary",
+		pos: "adjective",
+		descriptive: "wearily"
+	},
+	{
+		word: "creepy",
+		pos: "adjective",
+		descriptive: "creepily"
+	},
+	{
+		word: "grieving",
+		pos: "adjective",
+		descriptive: "grievingly"
+	},
+	{
+		word: "plain",
+		pos: "adjective",
+		descriptive: "plainly"
+	},
+	{
+		word: "wicked",
+		pos: "adjective",
+		descriptive: "wickedly"
+	},
+	{
+		word: "crowded",
+		pos: "adjective",
+		descriptive: "crowdedly"
+	},
+	{
+		word: "grotesque",
+		pos: "adjective",
+		descriptive: "grotesquely"
+	},
+	{
+		word: "pleasant",
+		pos: "adjective",
+		descriptive: "pleasantly"
+	},
+	{
+		word: "wide-eyed",
+		pos: "adjective",
+		descriptive: "wide-eyedly"
+	},
+	{
+		word: "cruel",
+		pos: "adjective",
+		descriptive: "cruelly"
+	},
+	{
+		word: "grumpy",
+		pos: "adjective",
+		descriptive: "grumpily"
+	},
+	{
+		word: "poised",
+		pos: "adjective",
+		descriptive: "poisedly"
+	},
+	{
+		word: "wild",
+		pos: "adjective",
+		descriptive: "wildly"
+	},
+	{
+		word: "curious",
+		pos: "adjective",
+		descriptive: "curiously"
+	},
+	{
+		word: "poor",
+		pos: "adjective",
+		descriptive: "poorly"
+	},
+	{
+		word: "witty",
+		pos: "adjective",
+		descriptive: "wittily"
+	},
+	{
+		word: "cute",
+		pos: "adjective",
+		descriptive: "cutely"
+	},
+	{
+		word: "handsome",
+		pos: "adjective",
+		descriptive: "handsomely"
+	},
+	{
+		word: "powerful",
+		pos: "adjective",
+		descriptive: "powerfully"
+	},
+	{
+		word: "worrisome",
+		pos: "adjective",
+		descriptive: "worrisomely"
+	},
+	{
+		word: "happy",
+		pos: "adjective",
+		descriptive: "happily"
+	},
+	{
+		word: "precious",
+		pos: "adjective",
+		descriptive: "preciously"
+	},
+	{
+		word: "worried",
+		pos: "adjective",
+		descriptive: "worriedly"
+	},
+	{
+		word: "dangerous",
+		pos: "adjective",
+		descriptive: "dangerously"
+	},
+	{
+		word: "healthy",
+		pos: "adjective",
+		descriptive: "healthily"
+	},
+	{
+		word: "prickly",
+		pos: "adjective",
+		descriptive: "prickily"
+	},
+	{
+		word: "wrong",
+		pos: "adjective",
+		descriptive: "wrongly"
+	},
+	{
+		word: "dark",
+		pos: "adjective",
+		descriptive: "darkly"
+	},
+	{
+		word: "helpful",
+		pos: "adjective",
+		descriptive: "helpfully"
+	},
+	{
+		word: "proud",
+		pos: "adjective",
+		descriptive: "proudly"
+	},
+	{
+		word: "dead",
+		pos: "adjective",
+		descriptive: "deadly"
+	},
+	{
+		word: "helpless",
+		pos: "adjective",
+		descriptive: "helplessly"
+	},
+	{
+		word: "putrid",
+		pos: "adjective",
+		descriptive: "putridly"
+	},
+	{
+		word: "zany",
+		pos: "adjective",
+		descriptive: "zanily"
+	},
+	{
+		word: "defeated",
+		pos: "adjective",
+		descriptive: "defeatedly"
+	},
+	{
+		word: "hilarious",
+		pos: "adjective",
+		descriptive: "hilariously"
+	},
+	{
+		word: "zealous",
+		pos: "adjective",
+		descriptive: "zealously"
 	}
 ]
-
-// ACTIONS = [
-// 	["walk", "walked", "walking"],
-// 	["eat", "ate", "eating"],
-// 	["swim", "swam", "swimming"],
-// 	["drink", "drank", "drinking"],
-// 	["run", "ran", "running"],
-// 	["dive", "dove", "diving"],
-// 	["climb", "climbed", "climbing"],
-// 	["stumble", "stumbled", "stumbling"],
-// 	["cry", "cried", "crying"],
-// 	["hit", "hit", "hitting"],
-// 	["kill", "killed", "killing"],
-// 	["ride", "rode", "riding"],
-// 	["stand up", "stood up", "standing up"],
-// 	["sit down", "sat down", "sitting down"],
-// 	["fight", "fought", "fighting"],
-// 	["laugh", "laughed", "laughing"],
-// 	["read", "read", "reading"],
-// 	["play", "played", "playing"],
-// 	["listen", "listened", "listened"],
-// 	["think", "thinked", "thinking"],
-// 	["sing", "sang", "singing"],
-// 	["watch tv", "watched tv", "watching tv"],
-// 	["dance", "danced", "dancing"],
-// 	["fly", "flyed", "flying"],
-// 	["cut", "cut", "cutting"],
-// 	["sleep", "slept", "sleeping"],
-// 	["close", "closed", "closing"],
-// 	["open", "opened", "opening"],
-// 	["write", "wrote", "writing"],
-// 	["give", "gave", "giving"],
-// 	["jump", "jumped", "jumping"],
-// 	["cook", "cooked", "cooking"],
-// 	["wash", "washed", "washing"],
-// 	["wait", "waiting", "waited"],
-// 	["dig", "digged", "digging"],
-// 	["clap", "clapped", "clapping"],
-// 	["knit", "knitted", "knitting"],
-// 	["smell", "smelled", "smelling"],
-// 	["kiss", "kissed", "kissing"],
-// 	["hug", "hugged", "hugging"],
-// 	["bathe", "bathed", "bathing"],
-// 	["snore", "snored", "snoring"],
-// 	["paint", "painted", "painting"],
-// 	["ski", "skied", "skiing"],
-// 	["stack", "stacked", "stacking"]
-// ]
-
-
-// PEOPLE = [
-// 	"man",
-// 	"woman",
-// 	"mime",
-// 	"band",
-// 	"group",
-// 	"mass",
-// 	"banker",
-// 	"salesperson",
-// 	"cashier",
-// 	"clerk",
-// 	"judge",
-// 	"juror",
-// 	"lawyer",
-// 	"housewife",
-// 	"stay-at-home dad",
-// 	"chef",
-// 	"sous chef",
-// 	"waiter",
-// 	"actor",
-// 	"manager",
-// 	"celebrity",
-// 	"nurse",
-// 	"doctor",
-// 	"mover",
-// 	"janitor",
-// 	"principal",
-// 	"vice principle",
-// 	"teacher",
-// 	"substitute teacher",
-// 	"president",
-// 	"vice president",
-// 	"governor",
-// 	"secretary",
-// 	"driver",
-// 	"engineer",
-// 	"architect",
-// 	"student",
-// 	"software developer",
-// 	"police officer",
-// 	"vetinarian",
-// 	"plumber",
-// 	"firefighter",
-// 	"mechanic",
-// 	"librarian",
-// 	"psychologist",
-// 	"surgeon",
-// 	"artist",
-// 	"designer",
-// 	"hairdresser",
-// 	"journalist",
-// 	"dentist",
-// 	"midwife",
-// 	"consultant",
-// 	"athlete",
-// 	"bartender",
-// 	"broker",
-// 	"therapist",
-// 	"mail carrier",
-// 	"musician",
-// 	"cleaner",
-// 	"flight attendant"
-// ]
-
-
-// PREPOSITIONS = [
-// 	"above",
-// 	"across",
-// 	"against",
-// 	"along",
-// 	"among",
-// 	"around",
-// 	"at",
-// 	"before",
-// 	"behind",
-// 	"below",
-// 	"beneath",
-// 	"beside",
-// 	"between",
-// 	"by",
-// 	"down",
-// 	"from",
-// 	"in",
-// 	"into",
-// 	"near",
-// 	"of",
-// 	"off",
-// 	"on",
-// 	"to",
-// 	"toward",
-// 	"under",
-// 	"upon",
-// 	"with",
-// 	"within"
-// ]
-
-
-// ARTICLES = [
-// 	"a",
-// 	"the"
-// ]
-
-
-// NOUNS = [
-// 	["people", "peoples"],
-// 	["history", "histories"],
-// 	["way", "ways"],
-// 	["art", "art"],
-// 	["world", "worlds"],
-// 	["information", "information"],
-// 	["map", "maps"],
-// 	["two", "two"],
-// 	["family", "families"],
-// 	["government", "governments"],
-// 	["health", "health"],
-// 	["system", "systems"],
-// 	["computer", "computers"],
-// 	["meat", "meats"],
-// 	["year", "years"],
-// 	["thanks", "thanks"],
-// 	["people", "people"],
-// 	["music", "music"],
-// 	["method", "methods"],
-// 	["data", "datum"],
-// 	["food", "food"],
-// 	["understanding", "understanding"],
-// 	["theory", "theories"],
-// 	["law", "laws"],
-// 	["bird", "birds"],
-// 	["literature", "literature"],
-// 	["problem", "problems"],
-// 	["software", "software"],
-// 	["control", "control"],
-// 	["knowledge", "knowledge"],
-// 	["power", "power"],
-// 	["ability", "abilities"],
-// 	["economics", "economics"],
-// 	["love", "love"],
-// 	["internet", "internet"],
-// 	["television", "televisions"],
-// 	["science", "science"],
-// 	["library", "libraries"],
-// 	["nature", "nature"],
-// 	["fact", "facts"],
-// 	["product", "products"],
-// 	["idea", "ideas"],
-// 	["temperature", "temperature"],
-// 	["investment", "investments"],
-// 	["area", "areas"],
-// 	["society", "societies"],
-// 	["activity", "activites"],
-// 	["story", "stories"],
-// 	["industry", "industries"],
-// 	["media", "media"],
-// 	["thing", "things"],
-// 	["oven", "ovens"],
-// 	["community", "communities"],
-// 	["definition", "definition"],
-// 	["safety", "safety"],
-// 	["quality", "qualities"],
-// 	["development", "developments"],
-// 	["language", "languages"],
-// 	["management", "management"],
-// 	["player", "player"],
-// 	["variety", "varieties"],
-// 	["video", "videos"],
-// 	["week", "weeks"],
-// 	["security", "securities"],
-// 	["country", "countries"],
-// 	["exam", "exams"],
-// 	["movie", "movies"],
-// 	["organization", "organizations"],
-// 	["equipment", "equipment"],
-// 	["physics", "physics"],
-// 	["analysis", "analysis"],
-// 	["policy", "policies"],
-// 	["series", "series"],
-// 	["thoughts", "thoughts"],
-// 	["basis", "basis"],
-// 	["boyfriend", "boyfriends"],
-// 	["direction", "directions"],
-// 	["strategy", "strategies"],
-// 	["technology", "technologies"],
-// 	["army", "armys"],
-// 	["camera", "cameras"],
-// 	["freedom", "freedoms"],
-// 	["paper", "paper"],
-// 	["enviroment", "enviroment"],
-// 	["child", "children"],
-// 	["instance", "instances"],
-// 	["moth", "moths"],
-// 	["truth", "truths"],
-// 	["marketing", "marketing"],
-// 	["university", "universities"],
-// 	["article", "articles"],
-// 	["department", "departments"],
-// 	["difference", "differences"],
-// 	["goal", "goals"],
-// 	["news", "news"],
-// 	["audience", "audiences"],
-// 	["fishing", "fishing"],
-// 	["growth", "growth"],
-// 	["income", "income"],
-// 	["marriage", "marriages"],
-// 	["user", "users"],
-// 	["combination", "combinations"],
-// 	["failure", "failure"],
-// 	["meaning", "meanings"],
-// 	["medicine", "medicines"],
-// 	["philosphy", "philosphies"]
-// ]
-
-
-// CURSES = [
-// 	"fuck off",
-// 	"fuck it",
-// 	"shit",
-// 	"son of a bitch",
-// 	"bastard",
-// 	"damn",
-// 	"bloody hell",
-// 	"what the hell",
-// 	"fuck this shit"
-// ]
-
-
-// ADJECTIVES = [
-// 	"happily",
-// 	"depressingly",
-// 	"slowly",
-// 	"quickly",
-// 	"adorably"
-// ]
